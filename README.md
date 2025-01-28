@@ -1,2 +1,3 @@
 # vansh_demo
-this is my first resporitery
+This is my first resporitery
+Author:vansh
